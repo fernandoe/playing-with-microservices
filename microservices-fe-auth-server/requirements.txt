@@ -1,4 +1,11 @@
+certifi==2017.11.5
+chardet==3.0.4
 Django==2.0
--e git+git@github.com:fernandoe/django-fe-core.git@4488f31394acf2f8f73ba08d5e3b5cfa66aff67f#egg=django_fe_core
+django-fe-core==0.3.0
+django-oauth-toolkit==1.0.0
 djangorestframework==3.7.3
+idna==2.6
+oauthlib==2.0.6
 pytz==2017.3
+requests==2.18.4
+urllib3==1.22
