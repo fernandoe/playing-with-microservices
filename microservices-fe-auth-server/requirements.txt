@@ -1,0 +1,4 @@
+Django==2.0
+-e git+git@github.com:fernandoe/django-fe-core.git@4488f31394acf2f8f73ba08d5e3b5cfa66aff67f#egg=django_fe_core
+djangorestframework==3.7.3
+pytz==2017.3
